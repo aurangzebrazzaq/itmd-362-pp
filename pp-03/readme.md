@@ -1,4 +1,4 @@
-## ITMD 362, Production Problem 03: Color Palettes
++## ITMD 362, Production Problem 03: Color Palettes
 
 For this production problem, you’re going to create several custom color palettes on the site
 Paletton, http://paletton.com.
