@@ -12,7 +12,7 @@ Focus on touch-related elements.
 
 ## Resources
 
-* Apple iOS HCI Guidlines:
+* Apple iOS HCI Guidelines:
   https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
 * Android:
   https://developer.android.com/design/index.html
@@ -27,11 +27,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guideline One (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742485.aspx
+* How you implemented it in your sketch: The login page needs a unifying universal/ well known logo to represent the school, the existing one is can use some work but it is recognizable. Users will understand this logo/icon instantaneously.
+
+* HCI Guideline Two (URL):
 * How you implemented it in your sketch:
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
-
-* HCI Guidline Three (URL):
+* HCI Guideline Three (URL):
 * How you implemented it in your sketch:
