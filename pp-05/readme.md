@@ -20,13 +20,13 @@ your own master usability checklist.
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Create a site map
+2. Clickable logo pointing to the homepage
+3. Make sure your site renders in all browsers on all devices
+4. Fully-functional website (no broken links, no broken functions)
+5. Make fonts readable
+6. Site-wide Consistency (Message, Design, etc.)
+7. Easy-to-use, well designed website layout, arranged properly
+8. Make sure the language in all text is simple enough for all users to understand
+9. Make sure your pages load quickly
+10. Write a short and memorable URL
