@@ -15,8 +15,8 @@ your own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.https://internetdevels.com/blog/50-point-checklist-for-website-usability-testing
+2.http://overit.com/blog/10-website-usability-considerations-checklist
 
 * Your own condensed, ten-item must-have usability checklist:
 
